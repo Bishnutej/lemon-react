@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lemon-react/static/css/main.db888e7e.css",
+    "main.js": "/lemon-react/static/js/main.a52b890d.js",
+    "static/js/787.f94fe70f.chunk.js": "/lemon-react/static/js/787.f94fe70f.chunk.js",
+    "static/media/menu.png": "/lemon-react/static/media/menu.00d58240bf4b0af8243f.png",
+    "static/media/bootstrap-icons.woff?": "/lemon-react/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/lemon-react/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/Tables.webp": "/lemon-react/static/media/Tables.5041c69105b2fd3e0a5f.webp",
+    "static/media/header_s.webp": "/lemon-react/static/media/header_s.c742f3f227aedc6e30fa.webp",
+    "static/media/chef.webp": "/lemon-react/static/media/chef.9cf2f2178b1185d18010.webp",
+    "static/media/header_big.webp": "/lemon-react/static/media/header_big.58a3dd0dbf2f924edcda.webp",
+    "static/media/logo_footer.webp": "/lemon-react/static/media/logo_footer.1da0b6d242b54da88b26.webp",
+    "static/media/icon_review.png": "/lemon-react/static/media/icon_review.ae3a914be1e9f200b221.png",
+    "static/media/logo_lemon.webp": "/lemon-react/static/media/logo_lemon.6d6c2b08a3a6af0728e3.webp",
+    "index.html": "/lemon-react/index.html",
+    "main.db888e7e.css.map": "/lemon-react/static/css/main.db888e7e.css.map",
+    "main.a52b890d.js.map": "/lemon-react/static/js/main.a52b890d.js.map",
+    "787.f94fe70f.chunk.js.map": "/lemon-react/static/js/787.f94fe70f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db888e7e.css",
+    "static/js/main.a52b890d.js"
+  ]
+}
