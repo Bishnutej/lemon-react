@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lemon-react/static/css/main.db888e7e.css",
-    "main.js": "/lemon-react/static/js/main.a52b890d.js",
+    "main.js": "/lemon-react/static/js/main.f90618d1.js",
     "static/js/787.f94fe70f.chunk.js": "/lemon-react/static/js/787.f94fe70f.chunk.js",
     "static/media/menu.png": "/lemon-react/static/media/menu.00d58240bf4b0af8243f.png",
     "static/media/bootstrap-icons.woff?": "/lemon-react/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
@@ -15,11 +15,11 @@
     "static/media/logo_lemon.webp": "/lemon-react/static/media/logo_lemon.6d6c2b08a3a6af0728e3.webp",
     "index.html": "/lemon-react/index.html",
     "main.db888e7e.css.map": "/lemon-react/static/css/main.db888e7e.css.map",
-    "main.a52b890d.js.map": "/lemon-react/static/js/main.a52b890d.js.map",
+    "main.f90618d1.js.map": "/lemon-react/static/js/main.f90618d1.js.map",
     "787.f94fe70f.chunk.js.map": "/lemon-react/static/js/787.f94fe70f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db888e7e.css",
-    "static/js/main.a52b890d.js"
+    "static/js/main.f90618d1.js"
   ]
 }
