@@ -91,7 +91,7 @@ const Reviews = () => {
                       height={50}
                     />
                     <p>
-                      <strong>Shriti Jena</strong>
+                      <strong>Shruti Jena</strong>
                     </p>
                   </div>
                   <div>
